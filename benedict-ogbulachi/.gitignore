@@ -1,5 +1,0 @@
-# ignore settings of django environment.
-benedict-ogbulachi/mysite/settings.py
-
-# ignoring files related to keys
-.env
